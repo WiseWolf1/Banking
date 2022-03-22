@@ -1,0 +1,7 @@
+	try{
+		rCallback({"v4a":{"rapport_version":"NOT_AVAILABLE"},"ki":"","timestamp":"2022-03-14 05:51:23","v5":{"virtual_machine":null},"v4":{"download_link":"https://download.trusteer.com/Ana2Cyjui/RapportSetup.exe?x-src=suntrust_check_rapportapi","rapport_id":null,"rapport_running":0,"compatible":1},"v8":{"rapport_pending_restart":0,"new_browser_version":0},"v6":{"is_admin":2}},
+				'',
+				'');
+		}
+	catch(e){}
+	
